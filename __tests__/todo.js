@@ -4,6 +4,7 @@ const db = require("../models/index");
 const app = require("../app");
 let server;
 let agent;
+hi 
 
 describe("Test case for database", () => {
   beforeAll(async () => {
